@@ -20,14 +20,14 @@
 #    print(i)
 
 
-#for i in range(3):
-#    print("TI03")
+for i in range(3):
+    print("TI03")
 
-#range
+range
 
-a = 1
-while a<6:
-    print(a)
-    if a==3:
-        break
-    a+=1
+#a = 1
+#while a<6:
+#    print(a)
+#    if a==3:
+#        break
+#    a+=1
