@@ -44,8 +44,8 @@ pemakaian_bensin = jarak / jarak_tempuh
 total_harga = pemakaian_bensin * harga
 
 print("=======================================")
-print("Nama Kendaraan\t:", kendaraan)
-print("Jenis Bensin\t:", bensin)
+print("Nama Kendaraan\t        :", kendaraan)
+print("Jenis Bensin\t        :", bensin)
 print("Kota yang dituju\t:", kota)
 print("Pemakaian Bensin\t:", round(pemakaian_bensin, 2), "Liter")
 print("Total Harga Bensin\t: Rp.", round(total_harga, 2))
